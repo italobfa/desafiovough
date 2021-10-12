@@ -1,6 +1,8 @@
+import { Container } from "./styles";
+
 export function Header() {
   return (
-    <>
+    <Container>
       <h2>Vough</h2>
       <nav>
         <ul>
@@ -15,6 +17,6 @@ export function Header() {
           </li>
         </ul>
       </nav>
-    </>
+    </Container>
   );
 }
