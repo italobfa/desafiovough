@@ -1,10 +1,11 @@
+import { Header } from './components/Header';
 import { GlobalStyle } from './styles/global'
 
 function App() {
   return (
     <>
-    <h2>Vough</h2>
-    <GlobalStyle />
+      <Header />
+      <GlobalStyle />
     </>
   );
 }
