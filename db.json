@@ -1,0 +1,94 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Paulo Santos",
+      "company": "Ambev",
+      "sector": "Bebidas",
+      "email": "paulo.santos@ambev.com",
+      "number": "11-985241253",
+      "site": "https://www.ambev.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Ricardo Andrade",
+      "company": "Engie",
+      "sector": "Energia",
+      "email": "ricardo.andrade@engie.com",
+      "number": "11-975856993",
+      "site": "https://www.engie.com.br"
+    },
+    {
+      "id": 3,
+      "name": "Adolfo Roberto",
+      "company": "Cyrela",
+      "sector": "construção",
+      "email": "adolfo-contato@cyrela.com",
+      "number": "11-999632147",
+      "site": "https://www2.cyrela.com.br"
+    },
+    {
+      "id": 4,
+      "name": "Tiago José",
+      "company": "Minerva",
+      "sector": "Alimentos",
+      "email": "tiagoj@minerva.com",
+      "number": "11-985256445",
+      "site": "https://www.minervafoods.com"
+    },
+    {
+      "id": 5,
+      "name": "Paulo José",
+      "company": "Intelbras",
+      "sector": "Tecnologia",
+      "email": "paulo-contato@intelbras.com",
+      "number": "21-978566398",
+      "site": "https://intelbras.com/pt-br"
+    },
+    {
+      "id": 6,
+      "name": "Lucas Gomes",
+      "company": "Suzano",
+      "sector": "Papel e celulose",
+      "email": "lucas.gomes@suzano.com",
+      "number": "21-988225612",
+      "site": "https://www.suzano.com.br"
+    },
+    {
+      "id": "7",
+      "name": "Larissa Martins",
+      "company": "Microsoft",
+      "sector": "Tecnologia",
+      "email": "contato.larissa@microsoft.com",
+      "number": "81-979630048",
+      "site": "https://www.microsoft.com/pt-br"
+    },
+    {
+      "id": "8",
+      "name": "Cleyton Carvalho",
+      "company": "Gama Academy",
+      "sector": "Educação",
+      "email": "cleyton_gama@academy.com",
+      "number": "41-999521047",
+      "site": "https://www.gama.academy/"
+    },
+    {
+      "id": "9",
+      "name": "Mônica Fernandes",
+      "company": "Santander",
+      "sector": "Financeiro",
+      "email": "contato-monica@santander.com",
+      "number": "21-982230044",
+      "site": "https://www.santander.com.br/"
+    },
+    {
+      "id": "10",
+      "name": "Fernanda Moraes",
+      "company": "Itaúsa",
+      "sector": "Investimentos",
+      "email": "fernandamoraes@itausa.com",
+      "number": "11-99996587",
+      "site": "https://www.itausa.com.br/"
+    }
+  ]
+}
